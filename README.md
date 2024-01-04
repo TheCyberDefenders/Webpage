@@ -1,2 +1,2 @@
 # Webpage
-The website for the CyberDefendersDAO
+This document contains the website for the CyberDefendersDAO.
